@@ -6,10 +6,10 @@ import 'favorites_page.dart';
 
 class GridPage extends StatelessWidget {
   final List<Fruit> fruits = [
-    Fruit(title: 'Apfel', image: 'https://via.placeholder.com/150?text=Apfel'),
-    Fruit(title: 'Banane', image: 'https://via.placeholder.com/150?text=Banane'),
-    Fruit(title: 'Kirsche', image: 'https://via.placeholder.com/150?text=Kirsche'),
-    Fruit(title: 'Traube', image: 'https://via.placeholder.com/150?text=Traube'),
+    Fruit(title: 'Apfel', image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg'),
+    Fruit(title: 'Banane', image: 'https://www.kochschule.de/sites/default/files/images/kochwissen/440/banane.jpg'),
+    Fruit(title: 'Kirsche', image: 'https://www.iva.de/sites/default/files/styles/16x9_840/public/benutzer/%25uid/magazinbilder/kirschen_181099124m_istock.jpg?h=140710cd&itok=5tdt5boy'),
+    Fruit(title: 'Traube', image: 'https://www.fruiton.de/media/pages/ueber-uns/fruchtlexikon/traube-thompson-seedless/modules/text/adab766cf0-1709567713/traube-thompson-seedless-680x510-crop-q85.webp'),
   ];
 
   @override
